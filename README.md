@@ -1,6 +1,6 @@
 # [steam-wiki.org](https://steam-wiki.org)
-Management Repo for Steam Wiki server. Updates/Changelogs will be stored there. You can get in touch with S.W. (Steam Wiki) admin to jamblond.contact@gmail.com ![Default MediaWiki user icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/MediaWiki-sysadmins-icon.svg
-)
+Management Repo for Steam Wiki server. Updates/Changelogs will be stored there. You can get in touch with S.W. (Steam Wiki) admin to jamblond.contact@gmail.com
+![Default MediaWiki user icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/MediaWiki-sysadmins-icon.svg)
 
 ## Versions codenames meaning
 
