@@ -24,3 +24,5 @@ Every features request is welcome! You can either send me an **[e-mail](mailto:j
 
 ### 1. Add a dedicated page for every users (with an account) to chat with each other, with dedicated thread/channels
 ### x. Host Steam Wiki on a Gabe Cube
+
+![Steam-wiki.org](https://github.com/HoloISO-Reborn/steam-wiki.org/blob/main/SteamWiki.org%20sitemap.drawio.png)
